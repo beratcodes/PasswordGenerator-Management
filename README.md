@@ -7,6 +7,7 @@ Bu Java Swing tabanlı masaüstü uygulama, güvenli ve özelleştirilebilir şi
 ## 🚀 Özellikler
 
 - ✅ Güvenli kullanıcı girişi ve kayıt sistemi  
+- 🔐 Kullanıcı şifreleri veritabanında **hash'lenmiş** şekilde saklanır  
 - 🔁 Şifre sıfırlama (güvenlik sorusu ile)  
 - 🔐 Şifre oluşturucu (karakter türü ve uzunluk seçilebilir)  
 - 💾 Şifreleri kaydetme ve görüntüleme  
